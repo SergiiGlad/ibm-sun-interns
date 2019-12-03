@@ -7,6 +7,7 @@ Create Kuberenets cluster with Jenkins
 * Use terrafrom v0.11.14 version
 * Use kubectl v1.14.7 version
 * Use helm v2.13.0 version or highter
+* Use terraform-provider-ibm_v0.18.0
 * Configuration variables can be changed in files:
   ```shell
   variables.tf
